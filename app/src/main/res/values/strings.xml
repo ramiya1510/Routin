@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="phone_number">phone number</string>
+    <string name="india_91">India(+91)</string>
+    <string name="please_enter_your_phone_number_we_will_send_you_otp_for_verification">Please enter your phone number.we will send you OTP for verification</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="_0_4">0/4</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="user_name">User name</string>
+    <string name="email_id">Email id</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
